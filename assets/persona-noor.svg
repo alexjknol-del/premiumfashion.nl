@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Illustratie van Noor Willemsen">
+  <title>Noor Willemsen</title>
+  <circle cx="200" cy="200" r="200" fill="#efe9df"/>
+
+  <!-- shoulders / top -->
+  <path d="M60,400 C60,300 120,260 200,260 C280,260 340,300 340,400 Z" fill="#a9762c"/>
+  <path d="M160,270 Q200,300 240,270 L240,300 Q200,320 160,300 Z" fill="#f6f3ee"/>
+
+  <!-- neck -->
+  <rect x="175" y="215" width="50" height="55" rx="18" fill="#e3ae86"/>
+
+  <!-- hair back -->
+  <path d="M115,190 C110,120 150,70 200,70 C250,70 290,120 285,190 C285,225 275,255 265,270 C270,220 262,200 245,195 C250,175 245,160 230,155 C232,175 220,190 200,192 C180,190 168,175 170,155 C155,160 150,175 155,195 C138,200 130,220 135,270 C125,255 115,225 115,190 Z" fill="#3c2a20"/>
+
+  <!-- face -->
+  <ellipse cx="200" cy="205" rx="78" ry="88" fill="#e3ae86"/>
+
+  <!-- ears -->
+  <ellipse cx="122" cy="210" rx="12" ry="18" fill="#e3ae86"/>
+  <ellipse cx="278" cy="210" rx="12" ry="18" fill="#e3ae86"/>
+
+  <!-- earrings -->
+  <circle cx="122" cy="228" r="5" fill="#a9762c"/>
+  <circle cx="278" cy="228" r="5" fill="#a9762c"/>
+
+  <!-- hair front / fringe -->
+  <path d="M122,175 C130,120 165,90 200,90 C235,90 270,120 278,175 C255,150 235,168 232,150 C222,168 205,158 200,150 C195,158 178,168 168,150 C165,168 145,150 122,175 Z" fill="#3c2a20"/>
+
+  <!-- eyebrows -->
+  <path d="M155,190 Q170,180 188,187" stroke="#3c2a20" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M212,187 Q230,180 245,190" stroke="#3c2a20" stroke-width="5" fill="none" stroke-linecap="round"/>
+
+  <!-- eyes -->
+  <path d="M160,208 Q172,200 184,208" stroke="#2a1d16" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M216,208 Q228,200 240,208" stroke="#2a1d16" stroke-width="5" fill="none" stroke-linecap="round"/>
+
+  <!-- blush -->
+  <ellipse cx="160" cy="232" rx="14" ry="8" fill="#d98f78" opacity="0.35"/>
+  <ellipse cx="240" cy="232" rx="14" ry="8" fill="#d98f78" opacity="0.35"/>
+
+  <!-- nose -->
+  <path d="M200,212 Q198,226 205,230" stroke="#c98f68" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- mouth -->
+  <path d="M178,246 Q200,262 222,246" stroke="#8a3f2f" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>
